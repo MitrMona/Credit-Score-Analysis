@@ -15,7 +15,7 @@ The project includes:
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### Credit Score Distribution
-![Credit Score Distribution](images/credit_score_distribution.png)
+![Credit Score Distribution](Images/Credit_Score_Distribution.png)
 
 ### Average Credit Score by Employment Type
 ![Employment vs Credit Score](images/employment_vs_credit.png)
