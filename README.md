@@ -55,3 +55,19 @@ The project includes:
 - Strong predictive performance
 - Predictions mostly fall near the actual values
 - Credit utilization, late payments, and annual income are the most important features
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## Conclusion
+
+This project analyzed customer financial data to understand the factors affecting credit scores and built a predictive model using a Random Forest Regressor.
+Key insights show that credit utilization, late payments, and employment type strongly influence scores.
+The model predicts credit scores with good accuracy, and feature importance highlights the most impactful factors.
+These findings can help financial institutions better assess creditworthiness and identify at-risk customers.
+Future improvements could include advanced models, hyperparameter tuning, and an interactive dashboard for predictions.
