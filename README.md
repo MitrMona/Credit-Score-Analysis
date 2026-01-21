@@ -18,16 +18,16 @@ The project includes:
 ![Credit Score Distribution](Images/Credit_Score_Distribution.png)
 
 ### Average Credit Score by Employment Type
-![Employment vs Credit Score](images/employment_vs_credit.png)
+![Employment vs Credit Score](Images/employment_vs_creditScore.png)
 
 ### Credit Utilization Rate vs Credit Score
-![Credit Utilization vs Credit Score](images/credit_utilization_scatter.png)
+![Credit Utilization vs Credit Score](Images/credit_utilization_scatter.png)
 
 ### Credit Score by Education Level
-![Education vs Credit Score](images/education_vs_credit.png)
+![Education vs Credit Score](Images/education_vs_credit.png)
 
 ### Correlation Matrix
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Images/correlation_heatmap.png)
 
 **Insights:**
 - Most credit scores are between 400–500
@@ -46,10 +46,10 @@ The project includes:
 ### Model Performance
 
 #### Actual vs Predicted Credit Scores
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](Images/actual_vs_predicted.png)
 
 #### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](Images/feature_importance.png)
 
 **Key Points:**
 - Strong predictive performance
